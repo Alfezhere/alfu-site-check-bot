@@ -1,4 +1,4 @@
-aiogram==3.4.1
+aiogram==3.2.0
 requests
 beautifulsoup4
 bs4
