@@ -1,5 +1,4 @@
-python-telegram-bot==20.7
-pyrogram==2.0.106
-TgCrypto==1.2.5
-aiohttp==3.9.5
-requests==2.31.0
+aiogram==3.4.1
+requests
+beautifulsoup4
+bs4
